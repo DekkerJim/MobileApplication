@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ComicProject</string>
+    <string name="search_term">Search.......</string>
+    <string name="submit">Submit</string>
+    <string name="save">Save to favorite</string>
+    <string name="saved_comics">Saved Comics</string>
+    <string name="delete_comics">Delete Comics</string>
+    <string name="synopsis_overview">Synopsis: </string>
+</resources>
